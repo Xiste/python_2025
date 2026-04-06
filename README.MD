@@ -82,26 +82,6 @@ Ao longo do curso foram resolvidos exercícios progressivos, incluindo:
 
 ---
 
-## 📁 Estrutura do Repositório
-
-```
-📦 introducao-python
-├── 📂 parte_1_fundamentos/
-│   ├── exercicio_1.1.py
-│   ├── exercicio_1.2.py
-│   └── ...
-├── 📂 parte_2_estruturas/
-│   ├── exercicio_2.1.py
-│   ├── exercicio_2.2.py
-│   └── ...
-├── 📂 desafios/
-│   ├── loteria_babilonia.py
-│   └── loteria_babilonia_streamlit.py
-└── README.md
-```
-
----
-
 ## 📖 Referências
 
 - Curso ministrado por **Téo Calvo** — [teomewhy.org](https://teomewhy.org)
